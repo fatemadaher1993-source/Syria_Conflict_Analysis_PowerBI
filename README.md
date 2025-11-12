@@ -1,4 +1,4 @@
-# 📈 Syria Conflict Lethality Analysis (Power BI Portfolio Project)
+# 📈 Syria Conflict Lethality Analysis 
 
 This project showcases advanced capabilities in M&E Data Analysis, DAX modeling, and creating strategic, data-driven narratives for the humanitarian sector, focusing on the Syrian conflict from 2017 to the latest available data in 2025.
 
