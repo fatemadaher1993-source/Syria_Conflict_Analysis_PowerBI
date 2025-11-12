@@ -16,8 +16,7 @@ This project showcases advanced capabilities in M&E Data Analysis, DAX modeling,
 
 ### 3. Advanced Interactivity (Drillthrough Proof)
 
-![Drillthrough Feature Proof][([Screenshots/Drillthrough_Feature_Proof.png](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-12%20at%2023.52.50.png))
-](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-12%20at%2023.52.50.png)
+![Drillthrough Feature Proof][https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-12%20at%2023.52.50.png]
 ---
 
 ## 🎯 Project Goal
