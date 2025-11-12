@@ -8,15 +8,15 @@ This project showcases advanced capabilities in M&E Data Analysis, DAX modeling,
 
 ### 1. Conflict Risk & Lethality Overview (Dashboard)
 
-[![Dashboard Main View](Screenshots/Dashboard_Snapshot.png)](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-13%20at%2000.05.02.png)
+![Dashboard Main View]([Screenshots/Dashboard_Snapshot.png](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-13%20at%2000.05.02.png))
 
 ### 2. Executive Summary & Strategic Findings
 
-![Executive Summary Page](S[creenshots/Executive_Summary_Page.png](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-13%20at%2000.06.00.png))
+![Executive Summary Page]([Screenshots/Executive_Summary_Page.png](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-13%20at%2000.06.00.png))
 
 ### 3. Advanced Interactivity (Drillthrough Proof)
 
-![Drillthrough Feature Proof][(Screenshots/Drillthrough_Feature_Proof.png)](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-12%20at%2023.52.50.png)
+![Drillthrough Feature Proof]([Screenshots/Drillthrough_Feature_Proof.png](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-12%20at%2023.52.50.png))
 
 ---
 
@@ -42,10 +42,3 @@ To move beyond simple event counting by establishing a **Conflict Severity Index
 * `Syria_Conflict_Analysis.pbix`: The source Power BI Desktop file.
 * `syria_conflict_data.xlsx`: The raw dataset used for the analysis.
 * `Screenshots/`: Contains visual output of the Dashboard, Executive Summary, and Drillthrough feature.
-
----
-*Prepared as a professional portfolio piece by [Your Name]*
-
----
-
-**تهانينا مجدداً! مشروعكِ الآن كامل ومثالي ومحترف، ونتمنى لكِ كل التوفيق في عرضه!**
