@@ -12,7 +12,7 @@ This project showcases advanced capabilities in M&E Data Analysis, DAX modeling,
 
 ### 2. Executive Summary & Strategic Findings
 
-![Executive Summary Page][([Screenshots/Executive_Summary_Page.png](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-13%20at%2000.06.00.png))](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-13%20at%2000.06.00.png)
+![Executive Summary Page][[([Screenshots/Executive_Summary_Page.png](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-13%20at%2000.06.00.png))](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-13%20at%2000.06.00.png)](https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI/blob/main/Screenshots/Screen%20Shot%202025-11-13%20at%2000.05.02.png)
 
 ### 3. Advanced Interactivity (Drillthrough Proof)
 
