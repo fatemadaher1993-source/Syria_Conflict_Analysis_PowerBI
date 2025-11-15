@@ -43,7 +43,7 @@ To move beyond simple event counting by establishing a **Conflict Severity Index
 * `Screenshots/`: Contains visual output of the Dashboard, Executive Summary, and Drillthrough feature.
 ***
 
-## 🙏 Data Source & Acknowledgment
+##  Data Source & Acknowledgment
 
 This analysis is based on data provided by the **Armed Conflict Location & Event Data Project (ACLED)**. Per the terms of use, the raw data cannot be redistributed.
 
